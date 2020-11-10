@@ -1,5 +1,5 @@
 # it-automation
-Scripts, playbooks, roles and configuration files.
+Scripts, playbooks, roles, Dockerfiles and configuration files.
 
 - Python
 - Ansible
