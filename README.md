@@ -1,8 +1,11 @@
 # it-automation
 Scripts, playbooks, roles, Dockerfiles and configuration files.
 
-- Python
+- Gitops
 - Ansible
-- Shell
-- Docker
 - Terraform
+- Python
+- Shell script
+- Docker
+- Helm
+- Kustomize
